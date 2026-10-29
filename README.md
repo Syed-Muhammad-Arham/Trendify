@@ -23,13 +23,14 @@ A responsive, high-performance e-commerce product gallery built with React. Nexa
    git clone [https://github.com/Syed-Muhammad-Arham/Trendify.git](https://github.com/Syed-Muhammad-Arham/Trendify.git)
    ```
 2. Navigate to the project directory:
-   cd trendify
+   cd trend
 3. Install the required dependencies:
    npm install
 4. Start the development server:
    npm start
-   👨‍💻 Author
-   Syed Muhammad Arham
+
+👨‍💻 Author
+Syed Muhammad Arham
 
 Role: Software Engineering Student & MERN Stack Developer
 
