@@ -23,16 +23,6 @@ function App() {
     console.log(res.data.products);
     setMyData(data);
   }
-  // async function matchData() {
-  //   let url = `https://dummyjson.com/products`;
-  //   let res = await axios.get(url);
-  //   // let input = prompt("enter category ");
-  //   for (let i = 0; i < res.data.products.length; i++) {
-  //     console.log(res.data.products[i].category);
-  //   }
-  // }
-  // matchData();
-
   function matD(val) {
     if (val === null || val === "") {
       setSrp(null);
