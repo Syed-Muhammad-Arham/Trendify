@@ -1,4 +1,4 @@
-# 🛒 NexaCart - Dynamic E-Commerce Store
+# 🛒 Trendify - Dynamic E-Commerce Store
 
 A responsive, high-performance e-commerce product gallery built with React. NexaCart dynamically fetches product data from a REST API and features a lightning-fast real-time search filter and an interactive product details modal for a premium user experience.
 
